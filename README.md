@@ -1,10 +1,10 @@
-## :vulcan_salute: Hi there, I'm Kate (she/her) 
+## :vulcan_salute: Hey, I'm Kate (she/they) 
 
 #### :computer: Full-Stack Developer
 #### :battery: Powered by coffee and moxie 
-#### :books: Forever reading and writing
+#### :books: otherTitles.includes('Reader', 'Writer', 'Sewist'); 
 #### :space_invader:/:ear_of_rice: ``` indoors ? gamingOnPC : practicingRegenerativeAgriculture; ```
-#### :infinity: Keep curious and learn on
+#### :infinity: Keep curious and code on
 
 <!-- 	:electron: :atom: -->
 <hr/>
