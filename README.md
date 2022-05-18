@@ -28,10 +28,10 @@
 
 <hr/>
 
-<p align="center">
-<!-- ![Visitor Count](https://profile-counter.glitch.me/KateLockhart/count.svg) -->
+<!-- <p align="center">
+ ![Visitor Count](https://profile-counter.glitch.me/KateLockhart/count.svg) 
   <img src="https://profile-counter.glitch.me/KateLockhart/count.svg" />
-</p>
+</p> -->
 <!-- ![visitors](https://visitor-badge.glitch.me/badge?page_id=KateLockhart&left_color=green&right_color=yellow) -->
 
 <!-- ![Linked In Logo to Redirect to Kate's LinkedIn Profile](http://www.w3.org/2000/svg) -->
