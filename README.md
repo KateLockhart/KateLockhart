@@ -2,7 +2,7 @@
 
 #### :computer: Full-Stack Developer
 #### :battery: Powered by coffee and moxie 
-#### :star2: Native English speaker, B1 Intermediate French, and 日本語を勉強しています。
+#### :star2: Native English speaker, Intermediate French, and 日本語を勉強しています。
 #### :books: otherTitles.includes('Reader', 'Writer', 'Sewist'); 
 #### :space_invader:/:ear_of_rice: ``` indoors ? gamingOnPC : practicingRegenerativeAgriculture; ```
 #### :infinity: Keep curious and code on
